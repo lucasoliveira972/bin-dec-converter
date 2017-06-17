@@ -1,0 +1,1 @@
+Since I made this for personal use, it does not check if a certain number is of an especific base before converting. So, for example, even though a number is not a binary number, it'll do the calculations and print the results anyway.
